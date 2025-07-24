@@ -5,4 +5,4 @@ NOC:Тестовое/дз
 
 Делаем в cisco packet tracer от версии 8.0.
 
-По всем вопросам @thekiritos
+По всем вопросам телеграмм: @thekiritos
